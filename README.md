@@ -1,4 +1,4 @@
-I'm a sophomore at Fudan University, majoring in AICS. 
+I'm a junior student at Fudan University, majoring in AICS. 
 
 A new ACMer of Fudan ACM-ICPC team
 
