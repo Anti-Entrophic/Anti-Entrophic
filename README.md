@@ -1,9 +1,9 @@
-I'm a junior student at Fudan University, majoring in AICS. 
+I'm a senior student at Fudan University, majoring in AICS. 
 
-A new ACMer of Fudan ACM-ICPC team
+a member of Fudan NLP.
 
-Ranked 2nd in GPA so far
+an Intern at Shanghai AI LAB.
 
-Hope I can make some contributions to the community
+Hope I can make some contributions to the community :-)
 
 E-mail : 21307140018@m.fudan.edu.cn 
